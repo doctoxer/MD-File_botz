@@ -6,7 +6,7 @@
     "file",
     "sharing"
   ],
-  "repository": "https://github.com/doctoxer/MD-File_botz",
+  "repository": "https://github.com/doctoxer/FileStoreBot",
   "logo": "https://telegra.ph/file/42a308e1a1c7b0c447581.jpg",
   "env": {
     "TG_BOT_TOKEN": {
